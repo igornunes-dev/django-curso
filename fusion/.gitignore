@@ -1,0 +1,11 @@
+__psycahe__
+
+*_*-
+
+*.pyc
+
+.env
+
+.idea
+
+htmlcov/*
