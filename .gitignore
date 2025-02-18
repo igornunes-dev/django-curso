@@ -6,6 +6,8 @@ __psycahe__
 
 .env
 
+venv
+
 .idea
 
 htmlcov/*
