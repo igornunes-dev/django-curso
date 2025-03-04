@@ -11,3 +11,9 @@ venv
 .idea
 
 htmlcov/*
+
+sqlite.db
+
+*/migrations/
+
+00*
